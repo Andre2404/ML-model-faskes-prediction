@@ -2,6 +2,9 @@
 
 Aplikasi berbasis Machine Learning untuk memprediksi **fasilitas kesehatan tujuan rujukan** pasien diabetes melitus berdasarkan data kunjungan di FKTP (Fasilitas Kesehatan Tingkat Pertama), menggunakan data BPJS Kesehatan.
 
+## Preview Streamlit (kalo ga bisa git clone aja)
+https://ml-model-faskes-prediction.streamlit.app/
+
 ## Link Notebook Training Model
 https://colab.research.google.com/drive/1Ec6Eh389zyM72NDWU-Uu5_EQmCwEJJE1?usp=sharing
 
