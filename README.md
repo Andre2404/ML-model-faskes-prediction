@@ -1,6 +1,9 @@
-# 🩺 Prediksi Rujukan FKTP untuk Pasien Diabetes Melitus
+# Prediksi Rujukan FKTP untuk Pasien Diabetes Melitus
 
 Aplikasi berbasis Machine Learning untuk memprediksi **fasilitas kesehatan tujuan rujukan** pasien diabetes melitus berdasarkan data kunjungan di FKTP (Fasilitas Kesehatan Tingkat Pertama), menggunakan data BPJS Kesehatan.
+
+## Link Notebook Training Model
+https://colab.research.google.com/drive/1Ec6Eh389zyM72NDWU-Uu5_EQmCwEJJE1?usp=sharing
 
 ## 🔍 Fitur Prediksi
 Model memprediksi **tiga aspek rujukan** sekaligus:
