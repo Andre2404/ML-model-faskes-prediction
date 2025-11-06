@@ -24,8 +24,9 @@ Model memprediksi **tiga aspek rujukan** sekaligus:
 - Python ≥ 3.9
 - Git
 
-### Instalasi
+### Instalasi jalankan di terminal
 ```bash
 git clone https://github.com/namamu/prediksi-rujukan-fktp.git
 cd prediksi-rujukan-fktp
 pip install -r requirements.txt
+streamlit run app.py
